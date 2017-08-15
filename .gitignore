@@ -147,3 +147,16 @@ application.linux64
 application.windows32
 application.windows64
 application.macosx
+
+
+###############################
+# Media files
+.tif
+.tiff
+.jpeg
+.jpg
+.gif
+.mov
+.avi
+.svg
+
